@@ -1,0 +1,13 @@
+#menu-list{
+display:none;
+background-color:#ffb85b;
+color : white;
+padding:20px;
+text-align: start;
+justify-content:space-between;
+font-family:Arial,sans-serif;
+}
+
+#menu-list.active{
+  display: flex;
+}

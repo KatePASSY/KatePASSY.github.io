@@ -1,0 +1,26 @@
+@import url("../CSS/header.css");
+@import url("../CSS/projets.css");
+.lututala {font-weight:bold;color:rgb(124, 9, 255);font: size 40px;}
+img {justify-content:center}
+h2{ color:rgb(124, 9, 255);}
+.container {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  max-width: 900px;
+  margin: 40px auto;
+}
+
+.container__image {
+  width: 300px;
+  height: auto;
+  border-radius: 8px;
+justify-content:center;}
+
+.container__text {
+  flex: 1;
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+h3{color:rgb(124, 9, 255)}
+
