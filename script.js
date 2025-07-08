@@ -23,5 +23,3 @@ menuBtn.addEventListener("click", function(){
   });
 
 }
-
-
